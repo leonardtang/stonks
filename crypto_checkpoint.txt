@@ -1,4 +1,0 @@
-Last Counted Date: 2021-06-19 
-Appending to existing crypto mentions data...Counting Mentions for Jun 19 2021 
-Compute Time: 0.3435938358306885 
-
