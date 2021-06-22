@@ -4,7 +4,7 @@ In the context of the recent retail investor craze, I decided to investigate how
 
 ## What it does
 
-I encourage you to browse the sight. It is a one-stop dashboard for understanding the engima that is r/WallStreetBets.
+I encourage you to browse the site. It is a one-stop dashboard for understanding the engima that is r/WallStreetBets.
 
 Namely, it provides sentiment features extracted from user comments alongside stock/cryptocurrency prices, volatility, and other key metrics. 
 
