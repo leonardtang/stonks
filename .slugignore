@@ -1,0 +1,4 @@
+gifs/
+images/
+*.ipynb
+data/wsb_submissions.csv

@@ -1,0 +1,2131 @@
+Last Counted Date: 
+Counting Mentions for Apr 16 2021 
+Compute Time: 76.66141891479492 
+
+Counting Mentions for Apr 15 2021 
+Compute Time: 65.913489818573 
+
+Counting Mentions for Apr 14 2021 
+Compute Time: 47.1883180141449 
+
+Counting Mentions for Apr 09 2021 
+Compute Time: 67.76133799552917 
+
+Counting Mentions for Apr 08 2021 
+Compute Time: 72.04055595397949 
+
+Counting Mentions for Apr 07 2021 
+Compute Time: 73.89963912963867 
+
+Counting Mentions for Apr 06 2021 
+Compute Time: 54.055086851119995 
+
+Counting Mentions for Apr 05 2021 
+Compute Time: 51.167490005493164 
+
+Counting Mentions for Apr 04 2021 
+Compute Time: 29.37064504623413 
+
+Counting Mentions for Apr 03 2021 
+Compute Time: 42.05605983734131 
+
+Counting Mentions for Apr 02 2021 
+Compute Time: 52.19656491279602 
+
+Counting Mentions for Apr 01 2021 
+Compute Time: 101.08878493309021 
+
+Counting Mentions for Mar 31 2021 
+Compute Time: 80.43889689445496 
+
+Counting Mentions for Mar 30 2021 
+Compute Time: 64.75114822387695 
+
+Counting Mentions for Mar 29 2021 
+Compute Time: 74.9320662021637 
+
+Counting Mentions for Mar 28 2021 
+Compute Time: 35.32364511489868 
+
+Counting Mentions for Mar 27 2021 
+Compute Time: 11.932043075561523 
+
+Counting Mentions for Mar 17 2021 
+Compute Time: 86.9379608631134 
+
+Counting Mentions for Mar 16 2021 
+Compute Time: 165.4694058895111 
+
+Counting Mentions for Mar 15 2021 
+Compute Time: 138.40648078918457 
+
+Counting Mentions for Mar 14 2021 
+Compute Time: 140.84774804115295 
+
+Counting Mentions for Mar 13 2021 
+Compute Time: 89.46867108345032 
+
+Counting Mentions for Mar 12 2021 
+Compute Time: 172.45152711868286 
+
+Counting Mentions for Mar 11 2021 
+Compute Time: 232.9956979751587 
+
+Counting Mentions for Mar 10 2021 
+Compute Time: 301.6796019077301 
+
+Counting Mentions for Mar 09 2021 
+Compute Time: 201.2969958782196 
+
+Counting Mentions for Mar 08 2021 
+Compute Time: 109.65934705734253 
+
+Counting Mentions for Mar 07 2021 
+Compute Time: 11.27894401550293 
+
+Counting Mentions for Mar 05 2021 
+Compute Time: 29.11077880859375 
+
+Counting Mentions for Mar 04 2021 
+Compute Time: 112.14446806907654 
+
+Counting Mentions for Mar 03 2021 
+Compute Time: 145.1797800064087 
+
+Counting Mentions for Mar 02 2021 
+Compute Time: 123.77050185203552 
+
+Counting Mentions for Feb 28 2021 
+Compute Time: 16.049423217773438 
+
+Counting Mentions for Feb 27 2021 
+Compute Time: 66.41555190086365 
+
+Counting Mentions for Feb 26 2021 
+Compute Time: 145.3348548412323 
+
+Counting Mentions for Feb 25 2021 
+Compute Time: 205.12213706970215 
+
+Counting Mentions for Feb 24 2021 
+Compute Time: 106.44906711578369 
+
+Counting Mentions for Feb 23 2021 
+Compute Time: 85.26894497871399 
+
+Counting Mentions for Feb 22 2021 
+Compute Time: 116.20796298980713 
+
+Counting Mentions for Feb 21 2021 
+Compute Time: 68.55399560928345 
+
+Counting Mentions for Feb 20 2021 
+Compute Time: 95.88838601112366 
+
+Counting Mentions for Feb 19 2021 
+Compute Time: 158.52417922019958 
+
+Counting Mentions for Feb 18 2021 
+Compute Time: 174.40158104896545 
+
+Counting Mentions for Feb 17 2021 
+Compute Time: 70.11282086372375 
+
+Counting Mentions for Feb 16 2021 
+Compute Time: 46.16030406951904 
+
+Counting Mentions for Feb 15 2021 
+Compute Time: 91.835364818573 
+
+Counting Mentions for Feb 14 2021 
+Compute Time: 73.63902306556702 
+
+Counting Mentions for Feb 13 2021 
+Compute Time: 85.45604014396667 
+
+Counting Mentions for Feb 12 2021 
+Compute Time: 151.06049013137817 
+
+Counting Mentions for Feb 11 2021 
+Compute Time: 190.1214509010315 
+
+Counting Mentions for Feb 10 2021 
+Compute Time: 152.54918503761292 
+
+Counting Mentions for Feb 09 2021 
+Compute Time: 123.93871927261353 
+
+Counting Mentions for Feb 08 2021 
+Compute Time: 100.6674497127533 
+
+Counting Mentions for Feb 07 2021 
+Compute Time: 4.696148872375488 
+
+Counting Mentions for Feb 04 2021 
+Compute Time: 558.1423060894012 
+
+Counting Mentions for Feb 03 2021 
+Compute Time: 484.86467599868774 
+
+Counting Mentions for Feb 02 2021 
+Compute Time: 983.950168132782 
+
+Counting Mentions for Feb 01 2021 
+Compute Time: 944.3236448764801 
+
+Counting Mentions for Jan 31 2021 
+Compute Time: 599.6629686355591 
+
+Counting Mentions for Jan 30 2021 
+Compute Time: 815.3964381217957 
+
+Counting Mentions for Jan 29 2021 
+Compute Time: 1495.1997518539429 
+
+Counting Mentions for Jan 28 2021 
+Compute Time: 2769.4212198257446 
+
+Counting Mentions for Jan 27 2021 
+Compute Time: 992.956512928009 
+
+Counting Mentions for Jan 26 2021 
+Compute Time: 266.7978618144989 
+
+Counting Mentions for Jan 25 2021 
+Compute Time: 378.05575227737427 
+
+Counting Mentions for Jan 24 2021 
+Compute Time: 101.48325300216675 
+
+Counting Mentions for Jan 23 2021 
+Compute Time: 123.09420680999756 
+
+Counting Mentions for Jan 22 2021 
+Compute Time: 185.7838830947876 
+
+Counting Mentions for Jan 21 2021 
+Compute Time: 91.3541738986969 
+
+Counting Mentions for Jan 20 2021 
+Compute Time: 84.49152398109436 
+
+Counting Mentions for Jan 19 2021 
+Compute Time: 83.22199487686157 
+
+Counting Mentions for Jan 18 2021 
+Compute Time: 68.99402236938477 
+
+Counting Mentions for Jan 17 2021 
+Compute Time: 50.914551973342896 
+
+Counting Mentions for Jan 16 2021 
+Compute Time: 60.16362190246582 
+
+Counting Mentions for Jan 15 2021 
+Compute Time: 93.22087597846985 
+
+Counting Mentions for Jan 14 2021 
+Compute Time: 82.03534007072449 
+
+Counting Mentions for Jan 13 2021 
+Compute Time: 66.64660382270813 
+
+Counting Mentions for Jan 12 2021 
+Compute Time: 40.979793071746826 
+
+Counting Mentions for Jan 11 2021 
+Compute Time: 42.842538833618164 
+
+Counting Mentions for Jan 10 2021 
+Compute Time: 31.80049204826355 
+
+Counting Mentions for Jan 09 2021 
+Compute Time: 30.560346841812134 
+
+Counting Mentions for Jan 08 2021 
+Compute Time: 45.09528422355652 
+
+Counting Mentions for Jan 07 2021 
+Compute Time: 38.758445739746094 
+
+Counting Mentions for Jan 06 2021 
+Compute Time: 32.377081871032715 
+
+Counting Mentions for Jan 05 2021 
+Compute Time: 41.84681510925293 
+
+Counting Mentions for Jan 04 2021 
+Compute Time: 34.42505598068237 
+
+Counting Mentions for Jan 03 2021 
+Compute Time: 32.269164085388184 
+
+Counting Mentions for Jan 02 2021 
+Compute Time: 32.872063875198364 
+
+Counting Mentions for Jan 01 2021 
+Compute Time: 27.850313901901245 
+
+Counting Mentions for Dec 31 2020 
+Compute Time: 50.04702687263489 
+
+Counting Mentions for Dec 30 2020 
+Compute Time: 35.47719073295593 
+
+Counting Mentions for Dec 29 2020 
+Compute Time: 43.551328897476196 
+
+Counting Mentions for Dec 28 2020 
+Compute Time: 38.76731872558594 
+
+Counting Mentions for Dec 27 2020 
+Compute Time: 28.487463235855103 
+
+Counting Mentions for Dec 26 2020 
+Compute Time: 26.72512197494507 
+
+Counting Mentions for Dec 25 2020 
+Compute Time: 26.171783924102783 
+
+Counting Mentions for Dec 24 2020 
+Compute Time: 45.216590881347656 
+
+Counting Mentions for Dec 23 2020 
+Compute Time: 50.14625382423401 
+
+Counting Mentions for Dec 22 2020 
+Compute Time: 45.05217003822327 
+
+Counting Mentions for Dec 21 2020 
+Compute Time: 41.17320895195007 
+
+Counting Mentions for Dec 20 2020 
+Compute Time: 26.35216736793518 
+
+Counting Mentions for Dec 19 2020 
+Compute Time: 17.61632490158081 
+
+Counting Mentions for Dec 18 2020 
+Compute Time: 28.687740087509155 
+
+Counting Mentions for Dec 17 2020 
+Compute Time: 32.15322518348694 
+
+Counting Mentions for Dec 16 2020 
+Compute Time: 46.934797048568726 
+
+Counting Mentions for Dec 15 2020 
+Compute Time: 34.506974935531616 
+
+Counting Mentions for Dec 14 2020 
+Compute Time: 39.6516170501709 
+
+Counting Mentions for Dec 13 2020 
+Compute Time: 28.928367137908936 
+
+Counting Mentions for Dec 12 2020 
+Compute Time: 24.899678945541382 
+
+Counting Mentions for Dec 11 2020 
+Compute Time: 51.56117796897888 
+
+Counting Mentions for Dec 10 2020 
+Compute Time: 42.764045000076294 
+
+Counting Mentions for Dec 09 2020 
+Compute Time: 50.75720810890198 
+
+Counting Mentions for Dec 08 2020 
+Compute Time: 55.91184210777283 
+
+Counting Mentions for Dec 07 2020 
+Compute Time: 46.74195623397827 
+
+Counting Mentions for Dec 06 2020 
+Compute Time: 29.322352170944214 
+
+Counting Mentions for Dec 05 2020 
+Compute Time: 24.274970054626465 
+
+Counting Mentions for Dec 04 2020 
+Compute Time: 37.862579107284546 
+
+Counting Mentions for Dec 03 2020 
+Compute Time: 31.27994704246521 
+
+Counting Mentions for Dec 02 2020 
+Compute Time: 69.7594358921051 
+
+Counting Mentions for Dec 01 2020 
+Compute Time: 76.54223203659058 
+
+Counting Mentions for Nov 30 2020 
+Compute Time: 85.28585076332092 
+
+Counting Mentions for Nov 29 2020 
+Compute Time: 41.788323163986206 
+
+Counting Mentions for Nov 28 2020 
+Compute Time: 55.51937198638916 
+
+Counting Mentions for Nov 27 2020 
+Compute Time: 98.95225596427917 
+
+Counting Mentions for Nov 26 2020 
+Compute Time: 55.664469957351685 
+
+Counting Mentions for Nov 25 2020 
+Compute Time: 85.26380109786987 
+
+Counting Mentions for Nov 24 2020 
+Compute Time: 60.39280319213867 
+
+Counting Mentions for Nov 23 2020 
+Compute Time: 44.20973801612854 
+
+Counting Mentions for Nov 22 2020 
+Compute Time: 24.276116132736206 
+
+Counting Mentions for Nov 21 2020 
+Compute Time: 26.124913215637207 
+
+Counting Mentions for Nov 20 2020 
+Compute Time: 31.185024976730347 
+
+Counting Mentions for Nov 19 2020 
+Compute Time: 32.14609098434448 
+
+Counting Mentions for Nov 18 2020 
+Compute Time: 30.887378215789795 
+
+Counting Mentions for Nov 17 2020 
+Compute Time: 23.855101823806763 
+
+Counting Mentions for Nov 16 2020 
+Compute Time: 22.021843910217285 
+
+Counting Mentions for Nov 15 2020 
+Compute Time: 16.906561136245728 
+
+Counting Mentions for Nov 14 2020 
+Compute Time: 25.385295152664185 
+
+Counting Mentions for Nov 13 2020 
+Compute Time: 29.91192889213562 
+
+Counting Mentions for Nov 12 2020 
+Compute Time: 28.011050939559937 
+
+Counting Mentions for Nov 11 2020 
+Compute Time: 21.708099126815796 
+
+Counting Mentions for Nov 10 2020 
+Compute Time: 25.252606868743896 
+
+Counting Mentions for Nov 09 2020 
+Compute Time: 33.05283522605896 
+
+Counting Mentions for Nov 08 2020 
+Compute Time: 14.019042015075684 
+
+Counting Mentions for Nov 07 2020 
+Compute Time: 12.807504177093506 
+
+Counting Mentions for Nov 06 2020 
+Compute Time: 7.8319549560546875 
+
+Counting Mentions for Nov 05 2020 
+Compute Time: 3.3487789630889893 
+
+Counting Mentions for Nov 04 2020 
+Compute Time: 17.51405119895935 
+
+Counting Mentions for Nov 03 2020 
+Compute Time: 20.894214868545532 
+
+Counting Mentions for Nov 02 2020 
+Compute Time: 18.692159175872803 
+
+Counting Mentions for Nov 01 2020 
+Compute Time: 13.296630144119263 
+
+Counting Mentions for Oct 31 2020 
+Compute Time: 18.5036141872406 
+
+Counting Mentions for Oct 30 2020 
+Compute Time: 25.29240894317627 
+
+Counting Mentions for Oct 29 2020 
+Compute Time: 25.894912004470825 
+
+Counting Mentions for Oct 28 2020 
+Compute Time: 25.57409405708313 
+
+Counting Mentions for Oct 27 2020 
+Compute Time: 23.330420970916748 
+
+Counting Mentions for Oct 26 2020 
+Compute Time: 19.933055877685547 
+
+Counting Mentions for Oct 25 2020 
+Compute Time: 14.209041118621826 
+
+Counting Mentions for Oct 24 2020 
+Compute Time: 12.80128526687622 
+
+Counting Mentions for Oct 23 2020 
+Compute Time: 25.27257204055786 
+
+Counting Mentions for Oct 22 2020 
+Compute Time: 28.80297613143921 
+
+Counting Mentions for Oct 21 2020 
+Compute Time: 32.65453791618347 
+
+Counting Mentions for Oct 20 2020 
+Compute Time: 30.434282064437866 
+
+Counting Mentions for Oct 19 2020 
+Compute Time: 12.326038122177124 
+
+Counting Mentions for Oct 18 2020 
+Compute Time: 12.398366928100586 
+
+Counting Mentions for Oct 17 2020 
+Compute Time: 19.16068196296692 
+
+Counting Mentions for Oct 16 2020 
+Compute Time: 32.81442093849182 
+
+Counting Mentions for Oct 15 2020 
+Compute Time: 35.13062572479248 
+
+Counting Mentions for Oct 14 2020 
+Compute Time: 32.96784996986389 
+
+Counting Mentions for Oct 13 2020 
+Compute Time: 27.57081890106201 
+
+Counting Mentions for Oct 12 2020 
+Compute Time: 27.95346426963806 
+
+Counting Mentions for Oct 11 2020 
+Compute Time: 19.31753897666931 
+
+Counting Mentions for Oct 10 2020 
+Compute Time: 19.13751220703125 
+
+Counting Mentions for Oct 09 2020 
+Compute Time: 27.2972891330719 
+
+Counting Mentions for Oct 08 2020 
+Compute Time: 32.64788603782654 
+
+Counting Mentions for Oct 07 2020 
+Compute Time: 28.344679832458496 
+
+Counting Mentions for Oct 06 2020 
+Compute Time: 27.610844135284424 
+
+Counting Mentions for Oct 05 2020 
+Compute Time: 23.599195957183838 
+
+Counting Mentions for Oct 04 2020 
+Compute Time: 13.326586961746216 
+
+Counting Mentions for Oct 03 2020 
+Compute Time: 11.914809226989746 
+
+Counting Mentions for Oct 02 2020 
+Compute Time: 26.057141304016113 
+
+Counting Mentions for Oct 01 2020 
+Compute Time: 25.536252975463867 
+
+Counting Mentions for Sep 30 2020 
+Compute Time: 24.561951875686646 
+
+Counting Mentions for Sep 29 2020 
+Compute Time: 24.705536127090454 
+
+Counting Mentions for Sep 28 2020 
+Compute Time: 20.44259786605835 
+
+Counting Mentions for Sep 27 2020 
+Compute Time: 9.786480188369751 
+
+Counting Mentions for Sep 26 2020 
+Compute Time: 21.962538242340088 
+
+Counting Mentions for Sep 25 2020 
+Compute Time: 19.191407918930054 
+
+Counting Mentions for Sep 24 2020 
+Compute Time: 29.74259305000305 
+
+Counting Mentions for Sep 23 2020 
+Compute Time: 45.996755838394165 
+
+Counting Mentions for Sep 22 2020 
+Compute Time: 23.65753173828125 
+
+Counting Mentions for Sep 21 2020 
+Compute Time: 34.2078971862793 
+
+Counting Mentions for Sep 20 2020 
+Compute Time: 21.87195324897766 
+
+Counting Mentions for Sep 19 2020 
+Compute Time: 25.541579008102417 
+
+Counting Mentions for Sep 18 2020 
+Compute Time: 25.34203815460205 
+
+Counting Mentions for Sep 17 2020 
+Compute Time: 40.15158295631409 
+
+Counting Mentions for Sep 16 2020 
+Compute Time: 44.752012968063354 
+
+Counting Mentions for Sep 15 2020 
+Compute Time: 33.40550398826599 
+
+Counting Mentions for Sep 14 2020 
+Compute Time: 22.8058660030365 
+
+Counting Mentions for Sep 13 2020 
+Compute Time: 11.361559867858887 
+
+Counting Mentions for Sep 12 2020 
+Compute Time: 20.562114000320435 
+
+Counting Mentions for Sep 11 2020 
+Compute Time: 34.98408913612366 
+
+Counting Mentions for Sep 10 2020 
+Compute Time: 38.584492921829224 
+
+Counting Mentions for Sep 09 2020 
+Compute Time: 36.58332800865173 
+
+Counting Mentions for Sep 08 2020 
+Compute Time: 35.89982509613037 
+
+Counting Mentions for Sep 07 2020 
+Compute Time: 17.386594772338867 
+
+Counting Mentions for Sep 06 2020 
+Compute Time: 23.44713592529297 
+
+Counting Mentions for Sep 05 2020 
+Compute Time: 28.973976135253906 
+
+Counting Mentions for Sep 04 2020 
+Compute Time: 59.15116596221924 
+
+Counting Mentions for Sep 03 2020 
+Compute Time: 54.70823407173157 
+
+Counting Mentions for Sep 02 2020 
+Compute Time: 47.840656042099 
+
+Counting Mentions for Sep 01 2020 
+Compute Time: 47.431931018829346 
+
+Counting Mentions for Aug 31 2020 
+Compute Time: 51.57793402671814 
+
+Counting Mentions for Aug 30 2020 
+Compute Time: 23.75611901283264 
+
+Counting Mentions for Aug 29 2020 
+Compute Time: 24.203922033309937 
+
+Counting Mentions for Aug 28 2020 
+Compute Time: 33.56717395782471 
+
+Counting Mentions for Aug 27 2020 
+Compute Time: 44.440165758132935 
+
+Counting Mentions for Aug 26 2020 
+Compute Time: 39.31648898124695 
+
+Counting Mentions for Aug 25 2020 
+Compute Time: 30.977571964263916 
+
+Counting Mentions for Aug 24 2020 
+Compute Time: 29.864506006240845 
+
+Counting Mentions for Aug 23 2020 
+Compute Time: 20.974802017211914 
+
+Counting Mentions for Aug 22 2020 
+Compute Time: 21.61887001991272 
+
+Counting Mentions for Aug 21 2020 
+Compute Time: 28.1545569896698 
+
+Counting Mentions for Aug 20 2020 
+Compute Time: 30.594710111618042 
+
+Counting Mentions for Aug 19 2020 
+Compute Time: 31.321754217147827 
+
+Counting Mentions for Aug 18 2020 
+Compute Time: 28.513923168182373 
+
+Counting Mentions for Aug 17 2020 
+Compute Time: 33.48969292640686 
+
+Counting Mentions for Aug 16 2020 
+Compute Time: 26.642146110534668 
+
+Counting Mentions for Aug 15 2020 
+Compute Time: 20.677170991897583 
+
+Counting Mentions for Aug 14 2020 
+Compute Time: 41.264243364334106 
+
+Counting Mentions for Aug 13 2020 
+Compute Time: 36.609066009521484 
+
+Counting Mentions for Aug 12 2020 
+Compute Time: 35.64513278007507 
+
+Counting Mentions for Aug 11 2020 
+Compute Time: 33.68898606300354 
+
+Counting Mentions for Aug 10 2020 
+Compute Time: 33.008373975753784 
+
+Counting Mentions for Aug 09 2020 
+Compute Time: 19.522305727005005 
+
+Counting Mentions for Aug 08 2020 
+Compute Time: 21.38902187347412 
+
+Counting Mentions for Aug 07 2020 
+Compute Time: 37.580751180648804 
+
+Counting Mentions for Aug 06 2020 
+Compute Time: 44.221062898635864 
+
+Counting Mentions for Aug 05 2020 
+Compute Time: 40.82259798049927 
+
+Counting Mentions for Aug 04 2020 
+Compute Time: 42.878791093826294 
+
+Counting Mentions for Aug 03 2020 
+Compute Time: 38.55817699432373 
+
+Counting Mentions for Aug 02 2020 
+Compute Time: 23.345288038253784 
+
+Counting Mentions for Aug 01 2020 
+Compute Time: 24.42836093902588 
+
+Counting Mentions for Jul 31 2020 
+Compute Time: 32.02450776100159 
+
+Counting Mentions for Jul 30 2020 
+Compute Time: 36.615931034088135 
+
+Counting Mentions for Jul 29 2020 
+Compute Time: 29.94983983039856 
+
+Counting Mentions for Jul 28 2020 
+Compute Time: 30.12082290649414 
+
+Counting Mentions for Jul 27 2020 
+Compute Time: 27.090566873550415 
+
+Counting Mentions for Jul 26 2020 
+Compute Time: 13.826464176177979 
+
+Counting Mentions for Jul 25 2020 
+Compute Time: 13.77464509010315 
+
+Counting Mentions for Jul 24 2020 
+Compute Time: 22.62067413330078 
+
+Counting Mentions for Jul 23 2020 
+Compute Time: 23.000394821166992 
+
+Counting Mentions for Jul 22 2020 
+Compute Time: 19.112174034118652 
+
+Counting Mentions for Jul 21 2020 
+Compute Time: 27.515398263931274 
+
+Counting Mentions for Jul 20 2020 
+Compute Time: 25.249284982681274 
+
+Counting Mentions for Jul 19 2020 
+Compute Time: 13.348862886428833 
+
+Counting Mentions for Jul 18 2020 
+Compute Time: 14.95561408996582 
+
+Counting Mentions for Jul 17 2020 
+Compute Time: 29.00887703895569 
+
+Counting Mentions for Jul 16 2020 
+Compute Time: 33.44627499580383 
+
+Counting Mentions for Jul 15 2020 
+Compute Time: 22.59391498565674 
+
+Counting Mentions for Jul 14 2020 
+Compute Time: 24.951253175735474 
+
+Counting Mentions for Jul 13 2020 
+Compute Time: 35.091936111450195 
+
+Counting Mentions for Jul 12 2020 
+Compute Time: 19.668275117874146 
+
+Counting Mentions for Jul 11 2020 
+Compute Time: 20.88050365447998 
+
+Counting Mentions for Jul 10 2020 
+Compute Time: 34.85329008102417 
+
+Counting Mentions for Jul 09 2020 
+Compute Time: 30.946115016937256 
+
+Counting Mentions for Jul 08 2020 
+Compute Time: 30.953633069992065 
+
+Counting Mentions for Jul 07 2020 
+Compute Time: 29.838205337524414 
+
+Counting Mentions for Jul 06 2020 
+Compute Time: 26.202287197113037 
+
+Counting Mentions for Jul 05 2020 
+Compute Time: 11.453606843948364 
+
+Counting Mentions for Jul 04 2020 
+Compute Time: 12.647032260894775 
+
+Counting Mentions for Jul 03 2020 
+Compute Time: 15.793361902236938 
+
+Counting Mentions for Jul 02 2020 
+Compute Time: 35.447575092315674 
+
+Counting Mentions for Jul 01 2020 
+Compute Time: 27.181988954544067 
+
+Counting Mentions for Jun 30 2020 
+Compute Time: 27.03399920463562 
+
+Counting Mentions for Jun 29 2020 
+Compute Time: 19.65514087677002 
+
+Counting Mentions for Jun 28 2020 
+Compute Time: 13.527316808700562 
+
+Counting Mentions for Jun 27 2020 
+Compute Time: 18.311747074127197 
+
+Counting Mentions for Jun 26 2020 
+Compute Time: 27.647814750671387 
+
+Counting Mentions for Jun 25 2020 
+Compute Time: 27.762983798980713 
+
+Counting Mentions for Jun 24 2020 
+Compute Time: 25.273159980773926 
+
+Counting Mentions for Jun 23 2020 
+Compute Time: 23.68943214416504 
+
+Counting Mentions for Jun 22 2020 
+Compute Time: 23.079288959503174 
+
+Counting Mentions for Jun 21 2020 
+Compute Time: 19.051280736923218 
+
+Counting Mentions for Jun 20 2020 
+Compute Time: 31.121498823165894 
+
+Counting Mentions for Jun 19 2020 
+Compute Time: 37.315324783325195 
+
+Counting Mentions for Jun 18 2020 
+Compute Time: 36.01281189918518 
+
+Counting Mentions for Jun 17 2020 
+Compute Time: 33.5116868019104 
+
+Counting Mentions for Jun 16 2020 
+Compute Time: 36.45354771614075 
+
+Counting Mentions for Jun 15 2020 
+Compute Time: 35.8590247631073 
+
+Counting Mentions for Jun 14 2020 
+Compute Time: 20.985310792922974 
+
+Counting Mentions for Jun 13 2020 
+Compute Time: 28.472394943237305 
+
+Counting Mentions for Jun 12 2020 
+Compute Time: 30.490913152694702 
+
+Counting Mentions for Jun 11 2020 
+Compute Time: 44.10466480255127 
+
+Counting Mentions for Jun 10 2020 
+Compute Time: 21.90333604812622 
+
+Counting Mentions for Jun 09 2020 
+Compute Time: 17.753366947174072 
+
+Counting Mentions for Jun 08 2020 
+Compute Time: 22.274887084960938 
+
+Counting Mentions for Jun 07 2020 
+Compute Time: 7.797206878662109 
+
+Counting Mentions for Jun 06 2020 
+Compute Time: 13.225666046142578 
+
+Counting Mentions for Jun 05 2020 
+Compute Time: 17.606528997421265 
+
+Counting Mentions for Jun 04 2020 
+Compute Time: 12.610311269760132 
+
+Counting Mentions for Jun 03 2020 
+Compute Time: 19.353118896484375 
+
+Counting Mentions for Jun 02 2020 
+Compute Time: 27.361631155014038 
+
+Counting Mentions for Jun 01 2020 
+Compute Time: 28.891268253326416 
+
+Counting Mentions for May 31 2020 
+Compute Time: 15.561012268066406 
+
+Counting Mentions for May 30 2020 
+Compute Time: 20.960288047790527 
+
+Counting Mentions for May 29 2020 
+Compute Time: 21.528395175933838 
+
+Counting Mentions for May 28 2020 
+Compute Time: 28.034770011901855 
+
+Counting Mentions for May 27 2020 
+Compute Time: 38.45303297042847 
+
+Counting Mentions for May 26 2020 
+Compute Time: 32.555458068847656 
+
+Counting Mentions for May 25 2020 
+Compute Time: 18.880302667617798 
+
+Counting Mentions for May 24 2020 
+Compute Time: 11.96092414855957 
+
+Counting Mentions for May 23 2020 
+Compute Time: 22.86409091949463 
+
+Counting Mentions for May 22 2020 
+Compute Time: 21.27236580848694 
+
+Counting Mentions for May 21 2020 
+Compute Time: 35.397855043411255 
+
+Counting Mentions for May 20 2020 
+Compute Time: 34.88729691505432 
+
+Counting Mentions for May 19 2020 
+Compute Time: 33.7276611328125 
+
+Counting Mentions for May 18 2020 
+Compute Time: 54.99199080467224 
+
+Counting Mentions for May 17 2020 
+Compute Time: 14.290381908416748 
+
+Counting Mentions for May 16 2020 
+Compute Time: 18.925535917282104 
+
+Counting Mentions for May 15 2020 
+Compute Time: 26.679439783096313 
+
+Counting Mentions for May 14 2020 
+Compute Time: 30.159162759780884 
+
+Counting Mentions for May 13 2020 
+Compute Time: 31.276912927627563 
+
+Counting Mentions for May 12 2020 
+Compute Time: 35.06355929374695 
+
+Counting Mentions for May 11 2020 
+Compute Time: 27.377116918563843 
+
+Counting Mentions for May 10 2020 
+Compute Time: 19.05818486213684 
+
+Counting Mentions for May 09 2020 
+Compute Time: 28.088234186172485 
+
+Counting Mentions for May 08 2020 
+Compute Time: 37.319567918777466 
+
+Counting Mentions for May 07 2020 
+Compute Time: 41.20184087753296 
+
+Counting Mentions for May 06 2020 
+Compute Time: 34.105987787246704 
+
+Counting Mentions for May 05 2020 
+Compute Time: 25.731798887252808 
+
+Counting Mentions for May 04 2020 
+Compute Time: 26.459807872772217 
+
+Counting Mentions for May 03 2020 
+Compute Time: 24.17117428779602 
+
+Counting Mentions for May 02 2020 
+Compute Time: 50.321940898895264 
+
+Counting Mentions for May 01 2020 
+Compute Time: 39.24390912055969 
+
+Counting Mentions for Apr 30 2020 
+Compute Time: 32.07355999946594 
+
+Counting Mentions for Apr 29 2020 
+Compute Time: 41.72215127944946 
+
+Counting Mentions for Apr 28 2020 
+Compute Time: 34.777462005615234 
+
+Counting Mentions for Apr 27 2020 
+Compute Time: 32.91234493255615 
+
+Counting Mentions for Apr 26 2020 
+Compute Time: 24.623155117034912 
+
+Counting Mentions for Apr 25 2020 
+Compute Time: 33.33440589904785 
+
+Counting Mentions for Apr 24 2020 
+Compute Time: 38.225011110305786 
+
+Counting Mentions for Apr 23 2020 
+Compute Time: 46.070035219192505 
+
+Counting Mentions for Apr 22 2020 
+Compute Time: 34.40756011009216 
+
+Counting Mentions for Apr 21 2020 
+Compute Time: 48.91304397583008 
+
+Counting Mentions for Apr 20 2020 
+Compute Time: 46.543128967285156 
+
+Counting Mentions for Apr 19 2020 
+Compute Time: 31.006361961364746 
+
+Counting Mentions for Apr 18 2020 
+Compute Time: 29.013886213302612 
+
+Counting Mentions for Apr 17 2020 
+Compute Time: 43.90663290023804 
+
+Counting Mentions for Apr 16 2020 
+Compute Time: 35.48849081993103 
+
+Counting Mentions for Apr 15 2020 
+Compute Time: 18.04465103149414 
+
+Counting Mentions for 2020-06-17 
+Counting Mentions for 2020-06-17 
+Counting Mentions for 2020-06-17 
+Getting sentiment for 2020-06-17 
+Getting sentiment for 2020-06-17 
+Getting sentiment for 2020-06-17 
+Getting sentiment for 2020-06-17 
+Getting sentiment for 2020-06-17 
+Getting sentiment for 2020-06-17 
+Compute Time: 339.79501008987427 
+
+Getting sentiment for 2020-06-17 
+Compute Time: 335.5441560745239 
+
+Getting sentiment for 2020-06-18 
+Compute Time: 410.6053042411804 
+
+Getting sentiment for 2020-06-19 
+Getting sentiment for 2020-06-18 
+Compute Time: 392.9383659362793 
+
+Getting sentiment for 2020-06-19 
+Compute Time: 321.02745604515076 
+
+Getting sentiment for 2020-06-20 
+Getting sentiment for 2020-06-19 
+Compute Time: 23.164963722229004 
+
+Getting sentiment for 2020-06-20 
+Getting sentiment for 2020-06-19 
+Compute Time: 25.645037174224854 
+
+Getting sentiment for 2020-06-20 
+Compute Time: 16.002105951309204 
+
+Getting sentiment for 2020-06-21 
+Compute Time: 11.638077020645142 
+
+Getting sentiment for 2020-06-22 
+Compute Time: 18.732454776763916 
+
+Getting sentiment for 2020-06-23 
+Getting sentiment for 2020-06-22 
+Compute Time: 21.547677993774414 
+
+Getting sentiment for 2020-06-23 
+Compute Time: 22.393872022628784 
+
+Getting sentiment for 2020-06-24 
+Compute Time: 20.803438663482666 
+
+Getting sentiment for 2020-06-25 
+Compute Time: 18.371166944503784 
+
+Getting sentiment for 2020-06-26 
+Compute Time: 18.730406999588013 
+
+Getting sentiment for 2020-06-27 
+Compute Time: 10.450580358505249 
+
+Getting sentiment for 2020-06-28 
+Compute Time: 10.173481941223145 
+
+Getting sentiment for 2020-06-29 
+Compute Time: 16.741442680358887 
+
+Getting sentiment for 2020-06-30 
+Compute Time: 17.11269998550415 
+
+Getting sentiment for 2020-07-01 
+Compute Time: 19.240868091583252 
+
+Getting sentiment for 2020-07-02 
+Compute Time: 18.293687105178833 
+
+Getting sentiment for 2020-07-03 
+Compute Time: 12.785627841949463 
+
+Getting sentiment for 2020-07-04 
+Compute Time: 9.375904083251953 
+
+Getting sentiment for 2020-07-05 
+Compute Time: 8.742148876190186 
+
+Getting sentiment for 2020-07-06 
+Compute Time: 19.522829055786133 
+
+Getting sentiment for 2020-07-07 
+Compute Time: 19.70021677017212 
+
+Getting sentiment for 2020-07-08 
+Compute Time: 20.938377380371094 
+
+Getting sentiment for 2020-07-09 
+Compute Time: 22.185795068740845 
+
+Getting sentiment for 2020-07-10 
+Compute Time: 21.655507802963257 
+
+Getting sentiment for 2020-07-11 
+Compute Time: 14.275214910507202 
+
+Getting sentiment for 2020-07-12 
+Compute Time: 11.828741312026978 
+
+Getting sentiment for 2020-07-13 
+Compute Time: 25.192087650299072 
+
+Getting sentiment for 2020-07-14 
+Compute Time: 19.939185857772827 
+
+Getting sentiment for 2020-07-15 
+Compute Time: 20.97528314590454 
+
+Getting sentiment for 2020-07-16 
+Compute Time: 21.365062952041626 
+
+Getting sentiment for 2020-07-17 
+Compute Time: 17.32616114616394 
+
+Getting sentiment for 2020-07-18 
+Compute Time: 10.285084962844849 
+
+Getting sentiment for 2020-07-19 
+Compute Time: 9.554388999938965 
+
+Getting sentiment for 2020-07-20 
+Compute Time: 18.607062816619873 
+
+Getting sentiment for 2020-07-21 
+Compute Time: 16.207767009735107 
+
+Getting sentiment for 2020-07-22 
+Compute Time: 19.44051194190979 
+
+Getting sentiment for 2020-07-23 
+Compute Time: 16.15152406692505 
+
+Getting sentiment for 2020-07-24 
+Compute Time: 18.096209049224854 
+
+Getting sentiment for 2020-07-25 
+Compute Time: 10.84664011001587 
+
+Getting sentiment for 2020-07-26 
+Compute Time: 8.64346194267273 
+
+Getting sentiment for 2020-07-27 
+Compute Time: 16.22650384902954 
+
+Getting sentiment for 2020-07-28 
+Compute Time: 19.747989892959595 
+
+Getting sentiment for 2020-07-29 
+Compute Time: 20.941050052642822 
+
+Getting sentiment for 2020-07-30 
+Compute Time: 21.827313899993896 
+
+Getting sentiment for 2020-07-31 
+Compute Time: 21.77353310585022 
+
+Getting sentiment for 2020-08-01 
+Compute Time: 12.354702711105347 
+
+Getting sentiment for 2020-08-02 
+Compute Time: 10.475815057754517 
+
+Getting sentiment for 2020-08-03 
+Compute Time: 20.524950742721558 
+
+Getting sentiment for 2020-08-04 
+Compute Time: 19.227726221084595 
+
+Getting sentiment for 2020-08-05 
+Compute Time: 21.798073053359985 
+
+Getting sentiment for 2020-08-06 
+Compute Time: 20.327327013015747 
+
+Getting sentiment for 2020-08-07 
+Compute Time: 21.380249738693237 
+
+Getting sentiment for 2020-08-08 
+Compute Time: 13.71108102798462 
+
+Getting sentiment for 2020-08-09 
+Compute Time: 9.353688716888428 
+
+Getting sentiment for 2020-08-10 
+Compute Time: 16.765973329544067 
+
+Getting sentiment for 2020-08-11 
+Compute Time: 20.297616958618164 
+
+Getting sentiment for 2020-08-12 
+Compute Time: 23.865116834640503 
+
+Getting sentiment for 2020-08-13 
+Compute Time: 23.259458780288696 
+
+Getting sentiment for 2020-08-14 
+Compute Time: 17.451566219329834 
+
+Getting sentiment for 2020-08-15 
+Compute Time: 11.181708097457886 
+
+Getting sentiment for 2020-08-16 
+Compute Time: 10.950199127197266 
+
+Getting sentiment for 2020-08-17 
+Compute Time: 17.324307918548584 
+
+Getting sentiment for 2020-08-18 
+Compute Time: 18.624190092086792 
+
+Getting sentiment for 2020-08-19 
+Compute Time: 18.266473054885864 
+
+Getting sentiment for 2020-08-20 
+Compute Time: 21.323137044906616 
+
+Getting sentiment for 2020-08-21 
+Compute Time: 20.352843046188354 
+
+Getting sentiment for 2020-08-22 
+Compute Time: 11.50573992729187 
+
+Getting sentiment for 2020-08-23 
+Compute Time: 13.401215076446533 
+
+Getting sentiment for 2020-08-24 
+Compute Time: 17.86673903465271 
+
+Getting sentiment for 2020-08-25 
+Compute Time: 17.922707080841064 
+
+Getting sentiment for 2020-08-26 
+Compute Time: 21.654190063476562 
+
+Getting sentiment for 2020-08-27 
+Compute Time: 25.995360851287842 
+
+Getting sentiment for 2020-08-28 
+Compute Time: 23.766054153442383 
+
+Getting sentiment for 2020-08-29 
+Compute Time: 13.686030149459839 
+
+Getting sentiment for 2020-08-30 
+Compute Time: 14.083310842514038 
+
+Getting sentiment for 2020-08-31 
+Compute Time: 29.37410306930542 
+
+Getting sentiment for 2020-09-01 
+Compute Time: 28.04857897758484 
+
+Getting sentiment for 2020-09-02 
+Compute Time: 30.202988147735596 
+
+Getting sentiment for 2020-09-03 
+Compute Time: 36.944754123687744 
+
+Getting sentiment for 2020-09-04 
+Compute Time: 37.95887088775635 
+
+Getting sentiment for 2020-09-05 
+Compute Time: 15.00987434387207 
+
+Getting sentiment for 2020-09-06 
+Compute Time: 12.277822971343994 
+
+Getting sentiment for 2020-09-07 
+Compute Time: 12.989706754684448 
+
+Getting sentiment for 2020-09-08 
+Compute Time: 29.89890480041504 
+
+Getting sentiment for 2020-09-09 
+Compute Time: 23.49569010734558 
+
+Getting sentiment for 2020-09-10 
+Compute Time: 20.18487286567688 
+
+Getting sentiment for 2020-09-11 
+Compute Time: 19.350461959838867 
+
+Getting sentiment for 2020-09-12 
+Compute Time: 12.797420024871826 
+
+Getting sentiment for 2020-09-13 
+Compute Time: 11.995354890823364 
+
+Getting sentiment for 2020-09-14 
+Compute Time: 22.23376727104187 
+
+Getting sentiment for 2020-09-15 
+Compute Time: 21.27599000930786 
+
+Getting sentiment for 2020-09-16 
+Compute Time: 20.5717990398407 
+
+Getting sentiment for 2020-09-17 
+Compute Time: 21.72337794303894 
+
+Getting sentiment for 2020-09-18 
+Compute Time: 16.327563047409058 
+
+Getting sentiment for 2020-09-19 
+Compute Time: 12.361234903335571 
+
+Getting sentiment for 2020-09-20 
+Compute Time: 7.624232053756714 
+
+Getting sentiment for 2020-09-21 
+Compute Time: 24.75495195388794 
+
+Getting sentiment for 2020-09-22 
+Compute Time: 17.077624082565308 
+
+Getting sentiment for 2020-09-23 
+Compute Time: 25.66542625427246 
+
+Getting sentiment for 2020-09-24 
+Compute Time: 18.67096185684204 
+
+Getting sentiment for 2020-09-25 
+Compute Time: 13.05742883682251 
+
+Getting sentiment for 2020-09-26 
+Compute Time: 9.491935968399048 
+
+Getting sentiment for 2020-09-27 
+Compute Time: 6.752224922180176 
+
+Getting sentiment for 2020-09-28 
+Compute Time: 16.609462022781372 
+
+Getting sentiment for 2020-09-29 
+Compute Time: 17.433766841888428 
+
+Getting sentiment for 2020-09-30 
+Compute Time: 14.898166179656982 
+
+Getting sentiment for 2020-10-01 
+Compute Time: 14.136450052261353 
+
+Getting sentiment for 2020-10-02 
+Compute Time: 23.57564377784729 
+
+Getting sentiment for 2020-10-03 
+Compute Time: 9.212127208709717 
+
+Getting sentiment for 2020-10-04 
+Compute Time: 8.434537887573242 
+
+Getting sentiment for 2020-10-05 
+Compute Time: 14.96611499786377 
+
+Getting sentiment for 2020-10-06 
+Compute Time: 22.470967054367065 
+
+Getting sentiment for 2020-10-07 
+Compute Time: 17.949363946914673 
+
+Getting sentiment for 2020-10-08 
+Compute Time: 17.587154865264893 
+
+Getting sentiment for 2020-10-09 
+Compute Time: 15.254047870635986 
+
+Getting sentiment for 2020-10-10 
+Compute Time: 9.87330412864685 
+
+Getting sentiment for 2020-10-11 
+Compute Time: 9.33304500579834 
+
+Getting sentiment for 2020-10-12 
+Compute Time: 16.211766004562378 
+
+Getting sentiment for 2020-10-13 
+Compute Time: 17.968605041503906 
+
+Getting sentiment for 2020-10-14 
+Compute Time: 16.87012481689453 
+
+Getting sentiment for 2020-10-15 
+Compute Time: 17.42211675643921 
+
+Getting sentiment for 2020-10-16 
+Compute Time: 16.22737193107605 
+
+Getting sentiment for 2020-10-17 
+Compute Time: 8.345725774765015 
+
+Getting sentiment for 2020-10-18 
+Compute Time: 7.361522197723389 
+
+Getting sentiment for 2020-10-19 
+Compute Time: 8.71331000328064 
+
+Getting sentiment for 2020-10-20 
+Compute Time: 11.981437921524048 
+
+Getting sentiment for 2020-10-21 
+Compute Time: 15.914824962615967 
+
+Getting sentiment for 2020-10-22 
+Compute Time: 17.440545082092285 
+
+Getting sentiment for 2020-10-23 
+Compute Time: 14.033325910568237 
+
+Getting sentiment for 2020-10-24 
+Compute Time: 8.29615306854248 
+
+Getting sentiment for 2020-10-25 
+Compute Time: 10.02712106704712 
+
+Getting sentiment for 2020-10-26 
+Compute Time: 13.457077980041504 
+
+Getting sentiment for 2020-10-27 
+Compute Time: 13.80919075012207 
+
+Getting sentiment for 2020-10-28 
+Compute Time: 16.104667901992798 
+
+Getting sentiment for 2020-10-29 
+Compute Time: 17.85610294342041 
+
+Getting sentiment for 2020-10-30 
+Compute Time: 16.51784920692444 
+
+Getting sentiment for 2020-10-31 
+Compute Time: 10.041224956512451 
+
+Getting sentiment for 2020-11-01 
+Compute Time: 7.371065855026245 
+
+Getting sentiment for 2020-11-02 
+Compute Time: 11.180919885635376 
+
+Getting sentiment for 2020-11-03 
+Compute Time: 14.558990001678467 
+
+Getting sentiment for 2020-11-04 
+Compute Time: 15.17825698852539 
+
+Getting sentiment for 2020-11-05 
+Compute Time: 2.563838005065918 
+
+Getting sentiment for 2020-11-06 
+Compute Time: 6.797580242156982 
+
+Getting sentiment for 2020-11-07 
+Compute Time: 9.2340247631073 
+
+Getting sentiment for 2020-11-08 
+Compute Time: 9.688483953475952 
+
+Getting sentiment for 2020-11-09 
+Compute Time: 26.63100004196167 
+
+Getting sentiment for 2020-11-10 
+Compute Time: 20.760074853897095 
+
+Getting sentiment for 2020-11-11 
+Compute Time: 14.217139959335327 
+
+Getting sentiment for 2020-11-12 
+Compute Time: 18.398674964904785 
+
+Getting sentiment for 2020-11-13 
+Compute Time: 21.355820894241333 
+
+Getting sentiment for 2020-11-14 
+Compute Time: 13.90459394454956 
+
+Getting sentiment for 2020-11-15 
+Compute Time: 10.776301145553589 
+
+Getting sentiment for 2020-11-16 
+Compute Time: 18.921571016311646 
+
+Getting sentiment for 2020-11-17 
+Compute Time: 25.032898902893066 
+
+Getting sentiment for 2020-11-18 
+Compute Time: 27.832427978515625 
+
+Getting sentiment for 2020-11-19 
+Compute Time: 24.741667985916138 
+
+Getting sentiment for 2020-11-20 
+Compute Time: 24.83438992500305 
+
+Getting sentiment for 2020-11-21 
+Compute Time: 13.050848007202148 
+
+Getting sentiment for 2020-11-22 
+Compute Time: 13.686048030853271 
+
+Getting sentiment for 2020-11-23 
+Compute Time: 27.356903791427612 
+
+Getting sentiment for 2020-11-24 
+Compute Time: 37.46957492828369 
+
+Getting sentiment for 2020-11-25 
+Compute Time: 58.72684025764465 
+
+Getting sentiment for 2020-11-26 
+Compute Time: 34.89751076698303 
+
+Getting sentiment for 2020-11-27 
+Compute Time: 424.53459906578064 
+
+Getting sentiment for 2020-11-28 
+Compute Time: 55.65664887428284 
+
+Getting sentiment for 2020-11-29 
+Compute Time: 112.97677707672119 
+
+Getting sentiment for 2020-11-30 
+Compute Time: 271.7258770465851 
+
+Getting sentiment for 2020-12-01 
+Compute Time: 46.289161920547485 
+
+Getting sentiment for 2020-12-02 
+Compute Time: 38.9208619594574 
+
+Getting sentiment for 2020-12-03 
+Compute Time: 19.23341989517212 
+
+Getting sentiment for 2020-12-04 
+Compute Time: 22.100682973861694 
+
+Getting sentiment for 2020-12-04 
+Compute Time: 34.640161752700806 
+
+Getting sentiment for 2020-12-05 
+Compute Time: 19.39891266822815 
+
+Getting sentiment for 2020-12-06 
+Compute Time: 14.655277013778687 
+
+Getting sentiment for 2020-12-07 
+Compute Time: 31.3233060836792 
+
+Getting sentiment for 2020-12-08 
+Compute Time: 32.63702702522278 
+
+Getting sentiment for 2020-12-09 
+Compute Time: 31.55330991744995 
+
+Getting sentiment for 2020-12-10 
+Compute Time: 28.183781147003174 
+
+Getting sentiment for 2020-12-11 
+Compute Time: 26.218736171722412 
+
+Getting sentiment for 2020-12-12 
+Compute Time: 219.66951394081116 
+
+Getting sentiment for 2020-12-13 
+Compute Time: 17.93297791481018 
+
+Getting sentiment for 2020-12-14 
+Compute Time: 27.16018271446228 
+
+Getting sentiment for 2020-12-15 
+Compute Time: 26.3002450466156 
+
+Getting sentiment for 2020-12-16 
+Compute Time: 28.90887713432312 
+
+Getting sentiment for 2020-12-17 
+Compute Time: 28.90856695175171 
+
+Getting sentiment for 2020-12-18 
+Compute Time: 32.06557583808899 
+
+Getting sentiment for 2020-12-19 
+Compute Time: 13.56120491027832 
+
+Getting sentiment for 2020-12-20 
+Compute Time: 15.357861995697021 
+
+Getting sentiment for 2020-12-21 
+Compute Time: 30.861938953399658 
+
+Getting sentiment for 2020-12-22 
+Compute Time: 33.32172107696533 
+
+Getting sentiment for 2020-12-23 
+Compute Time: 32.271679162979126 
+
+Getting sentiment for 2020-12-24 
+Compute Time: 19.340750217437744 
+
+Getting sentiment for 2020-12-25 
+Compute Time: 16.945430994033813 
+
+Getting sentiment for 2020-12-26 
+Compute Time: 14.130114793777466 
+
+Getting sentiment for 2020-12-27 
+Compute Time: 15.560184955596924 
+
+Getting sentiment for 2020-12-28 
+Compute Time: 25.71350622177124 
+
+Getting sentiment for 2020-12-29 
+Compute Time: 24.38997721672058 
+
+Getting sentiment for 2020-12-30 
+Compute Time: 24.45240092277527 
+
+Getting sentiment for 2020-12-31 
+Compute Time: 26.220850944519043 
+
+Getting sentiment for 2021-01-01 
+Compute Time: 13.89549994468689 
+
+Getting sentiment for 2021-01-02 
+Compute Time: 16.0918972492218 
+
+Getting sentiment for 2021-01-03 
+Compute Time: 15.838450908660889 
+
+Getting sentiment for 2021-01-04 
+Compute Time: 24.63446593284607 
+
+Getting sentiment for 2021-01-05 
+Compute Time: 24.13530397415161 
+
+Getting sentiment for 2021-01-06 
+Compute Time: 30.739430904388428 
+
+Getting sentiment for 2021-01-07 
+Compute Time: 28.332551956176758 
+
+Getting sentiment for 2021-01-08 
+Compute Time: 38.22052478790283 
+
+Getting sentiment for 2021-01-09 
+Compute Time: 20.74501395225525 
+
+Getting sentiment for 2021-01-10 
+Compute Time: 18.11053991317749 
+
+Getting sentiment for 2021-01-11 
+Compute Time: 32.71655988693237 
+
+Getting sentiment for 2021-01-12 
+Compute Time: 26.820729970932007 
+
+Getting sentiment for 2021-01-13 
+Compute Time: 54.65022897720337 
+
+Getting sentiment for 2021-01-14 
+Compute Time: 68.66727900505066 
+
+Getting sentiment for 2021-01-15 
+Compute Time: 68.75551795959473 
+
+Getting sentiment for 2021-01-16 
+Compute Time: 30.47678303718567 
+
+Getting sentiment for 2021-01-17 
+Compute Time: 22.920650959014893 
+
+Getting sentiment for 2021-01-18 
+Compute Time: 33.477466106414795 
+
+Getting sentiment for 2021-01-19 
+Compute Time: 65.61389970779419 
+
+Getting sentiment for 2021-01-20 
+Compute Time: 57.11084198951721 
+
+Getting sentiment for 2021-01-21 
+Compute Time: 61.54933404922485 
+
+Getting sentiment for 2021-01-22 
+Compute Time: 122.50492310523987 
+
+Getting sentiment for 2021-01-22 
+Compute Time: 130.94543409347534 
+
+Getting sentiment for 2021-01-23 
+Compute Time: 73.53090262413025 
+
+Getting sentiment for 2021-01-24 
+Compute Time: 52.164806842803955 
+
+Getting sentiment for 2021-01-25 
+Compute Time: 284.3968470096588 
+
+Getting sentiment for 2021-01-26 
+Compute Time: 245.65268397331238 
+
+Getting sentiment for 2021-01-27 
+Compute Time: 1432.428964138031 
+
+Getting sentiment for 2021-01-28 
+Compute Time: 5409.422653198242 
+
+Getting sentiment for 2021-01-29 
+Compute Time: 3214.913796901703 
+
+Getting sentiment for 2021-01-30 
+Compute Time: 1595.2667908668518 
+
+Getting sentiment for 2021-01-31 
+Compute Time: 1026.9073972702026 
+
+Getting sentiment for 2021-02-01 
+Compute Time: 1475.0003561973572 
+
+Getting sentiment for 2021-02-02 
+Compute Time: 1404.8086647987366 
+
+Getting sentiment for 2021-02-03 
+Compute Time: 711.4113879203796 
+
+Getting sentiment for 2021-02-04 
+Compute Time: 577.8735806941986 
+
+Getting sentiment for 2021-02-07 
+Compute Time: 5.5250279903411865 
+
+Getting sentiment for 2021-02-08 
+Compute Time: 137.95789074897766 
+
+Getting sentiment for 2021-02-09 
+Compute Time: 162.72182202339172 
+
+Getting sentiment for 2021-02-10 
+Compute Time: 219.04224276542664 
+
+Getting sentiment for 2021-02-11 
+Compute Time: 281.75397300720215 
+
+Getting sentiment for 2021-02-12 
+Compute Time: 167.7524130344391 
+
+Getting sentiment for 2021-02-13 
+Compute Time: 79.71740508079529 
+
+Getting sentiment for 2021-02-14 
+Compute Time: 62.89198279380798 
+
+Getting sentiment for 2021-02-15 
+Compute Time: 67.50343799591064 
+
+Getting sentiment for 2021-02-16 
+Compute Time: 45.24200510978699 
+
+Getting sentiment for 2021-02-17 
+Compute Time: 45.675280809402466 
+
+Getting sentiment for 2021-02-18 
+Compute Time: 123.8618221282959 
+
+Getting sentiment for 2021-02-19 
+Compute Time: 101.40155386924744 
+
+Getting sentiment for 2021-02-20 
+Compute Time: 64.80634593963623 
+
+Getting sentiment for 2021-02-21 
+Compute Time: 49.765305042266846 
+
+Getting sentiment for 2021-02-22 
+Compute Time: 89.10723996162415 
+
+Getting sentiment for 2021-02-23 
+Compute Time: 86.73659801483154 
+
+Getting sentiment for 2021-02-24 
+Compute Time: 148.44162487983704 
+
+Getting sentiment for 2021-02-25 
+Compute Time: 306.556263923645 
+
+Getting sentiment for 2021-02-26 
+Compute Time: 172.53272581100464 
+
+Getting sentiment for 2021-02-27 
+Compute Time: 77.97713899612427 
+
+Getting sentiment for 2021-02-28 
+Compute Time: 17.688645124435425 
+
+Getting sentiment for 2021-03-02 
+Compute Time: 85.54805612564087 
+
+Getting sentiment for 2021-03-03 
+Compute Time: 146.50172328948975 
+
+Getting sentiment for 2021-03-04 
+Compute Time: 123.11557030677795 
+
+Getting sentiment for 2021-03-05 
+Compute Time: 26.80594277381897 
+
+Getting sentiment for 2021-03-07 
+Compute Time: 6.541478872299194 
+
+Getting sentiment for 2021-03-08 
+Compute Time: 72.55761504173279 
+
+Getting sentiment for 2021-03-09 
+Compute Time: 140.03250575065613 
+
+Getting sentiment for 2021-03-10 
+Compute Time: 250.8483600616455 
+
+Getting sentiment for 2021-03-11 
+Compute Time: 143.28827118873596 
+
+Getting sentiment for 2021-03-12 
+Compute Time: 109.9851462841034 
+
+Getting sentiment for 2021-03-13 
+Compute Time: 58.98894429206848 
+
+Getting sentiment for 2021-03-14 
+Compute Time: 77.6024341583252 
+
+Getting sentiment for 2021-03-15 
+Compute Time: 84.06961512565613 
+
+Getting sentiment for 2021-03-16 
+Compute Time: 97.73651599884033 
+
+Getting sentiment for 2021-03-17 
+Compute Time: 51.46165108680725 
+
+Getting sentiment for 2021-03-27 
+Compute Time: 7.98878812789917 
+
+Getting sentiment for 2021-03-28 
+Compute Time: 28.61911392211914 
+
+Getting sentiment for 2021-03-29 
+Compute Time: 47.52554798126221 
+
+Getting sentiment for 2021-03-30 
+Compute Time: 44.866718769073486 
+
+Getting sentiment for 2021-03-31 
+Compute Time: 53.68757390975952 
+
+Getting sentiment for 2021-04-01 
+Compute Time: 58.26515293121338 
+
+Getting sentiment for 2021-04-02 
+Compute Time: 29.230202198028564 
+
+Getting sentiment for 2021-04-03 
+Compute Time: 23.54435110092163 
+
+Getting sentiment for 2021-04-04 
+Compute Time: 23.047268867492676 
+
+Getting sentiment for 2021-04-05 
+Compute Time: 31.77924108505249 
+
+Getting sentiment for 2021-04-06 
+Compute Time: 33.16910529136658 
+
+Getting sentiment for 2021-04-07 
+Compute Time: 35.050273180007935 
+
+Getting sentiment for 2021-04-08 
+Compute Time: 40.57753396034241 
+
+Getting sentiment for 2021-04-09 
+Compute Time: 40.36715483665466 
+
+Getting sentiment for 2021-04-14 
+Compute Time: 38.8526029586792 
+
+Getting sentiment for 2021-04-15 
+Compute Time: 43.34989023208618 
+
+Getting sentiment for 2021-04-16 
+Compute Time: 52.956809282302856 
+
+Getting sentiment for 2021-04-17 
+Compute Time: 26.86168098449707 
+
+Getting sentiment for 2021-04-18 
+Compute Time: 23.160851001739502 
+
+Getting sentiment for 2021-04-19 
+Compute Time: 38.43374705314636 
+
+Getting sentiment for 2021-04-20 
+Compute Time: 39.56425714492798 
+
+Getting sentiment for 2021-04-21 
+Compute Time: 35.53674387931824 
+
+Getting sentiment for 2021-04-22 
+Compute Time: 40.43109893798828 
+
+Getting sentiment for 2021-04-23 
+Compute Time: 37.827630281448364 
+
+Getting sentiment for 2021-04-24 
+Compute Time: 21.700889825820923 
+
+Getting sentiment for 2021-04-25 
+Compute Time: 22.76464009284973 
+
+Getting sentiment for 2021-04-26 
+Compute Time: 49.58314609527588 
+
+Getting sentiment for 2021-04-27 
+Compute Time: 55.06138801574707 
+
+Getting sentiment for 2021-04-28 
+Compute Time: 41.779330015182495 
+
+Getting sentiment for 2021-04-29 
+Compute Time: 44.71832489967346 
+
+Getting sentiment for 2021-04-30 
+Compute Time: 40.234190225601196 
+
+Getting sentiment for 2021-05-01 
+Compute Time: 23.299399375915527 
+
+Getting sentiment for 2021-05-02 
+Compute Time: 21.24521493911743 
+
+Getting sentiment for 2021-05-03 
+Compute Time: 38.2304048538208 
+
+Getting sentiment for 2021-05-04 
+Compute Time: 38.89671301841736 
+
+Getting sentiment for 2021-05-05 
+Compute Time: 43.179900884628296 
+
+Getting sentiment for 2021-05-06 
+Compute Time: 53.78082275390625 
+
+Getting sentiment for 2021-05-07 
+Compute Time: 34.849905252456665 
+
+Getting sentiment for 2021-05-08 
+Compute Time: 23.58742618560791 
+
+Getting sentiment for 2021-05-09 
+Compute Time: 23.312103033065796 
+
+Getting sentiment for 2021-05-10 
+Compute Time: 35.59397482872009 
+
+Getting sentiment for 2021-05-11 
+Compute Time: 40.21949100494385 
+
+Getting sentiment for 2021-05-12 
+Compute Time: 34.89143490791321 
+
+Getting sentiment for 2021-05-13 
+Compute Time: 40.796998023986816 
+
+Getting sentiment for 2021-05-14 
+Compute Time: 37.729421854019165 
+
+Getting sentiment for 2021-05-15 
+Compute Time: 18.69175696372986 
+
+Getting sentiment for 2021-05-16 
+Compute Time: 15.694841146469116 
+
+Getting sentiment for 2021-05-17 
+Compute Time: 29.98407292366028 
+
+Getting sentiment for 2021-05-18 
+Compute Time: 31.26896905899048 
+
+Getting sentiment for 2021-05-19 
+Compute Time: 29.7012300491333 
+
+Getting sentiment for 2021-05-20 
+Compute Time: 27.744638204574585 
+
+Getting sentiment for 2021-05-21 
+Compute Time: 27.679991960525513 
+
+Getting sentiment for 2021-05-22 
+Compute Time: 18.60470724105835 
+
+Getting sentiment for 2021-05-23 
+Compute Time: 14.856380939483643 
+
+Getting sentiment for 2021-05-24 
+Compute Time: 24.123886823654175 
+
+Getting sentiment for 2021-05-25 
+Compute Time: 23.060111045837402 
+
+Getting sentiment for 2021-05-26 
+Compute Time: 44.543375968933105 
+
+Getting sentiment for 2021-05-27 
+Compute Time: 70.70627498626709 
+
+Getting sentiment for 2021-05-28 
+Compute Time: 72.94962000846863 
+
+Getting sentiment for 2021-05-29 
+Compute Time: 27.06192684173584 
+
+Getting sentiment for 2021-05-30 
+Compute Time: 22.534425020217896 
+
+Getting sentiment for 2021-05-31 
+Compute Time: 19.54131293296814 
+
+Getting sentiment for 2021-06-01 
+Compute Time: 45.05695676803589 
+
+Getting sentiment for 2021-06-02 
+Compute Time: 122.89057612419128 
+
+Getting sentiment for 2021-06-03 
+Compute Time: 161.65670108795166 
+
+Getting sentiment for 2021-06-04 
+Compute Time: 99.8556649684906 
+
+Getting sentiment for 2021-06-05 
+Compute Time: 40.49306511878967 
+
+Getting sentiment for 2021-06-06 
+Compute Time: 33.55134415626526 
+
+Getting sentiment for 2021-06-07 
+Compute Time: 73.27430033683777 
+
+Getting sentiment for 2021-06-08 
+Compute Time: 143.72645616531372 
+
+Getting sentiment for 2021-06-09 
+Compute Time: 190.3516139984131 
+
+Getting sentiment for 2021-06-10 
+Compute Time: 130.40313172340393 
+
+Getting sentiment for 2021-06-11 
+Compute Time: 94.22168397903442 
+
+Getting sentiment for 2021-06-12 
+Compute Time: 41.55641007423401 
+
+Getting sentiment for 2021-06-13 
+Compute Time: 36.2679009437561 
+
+Getting sentiment for 2021-06-14 
+Compute Time: 75.60893392562866 
+
+Getting sentiment for 2021-06-15 
+Compute Time: 78.58184695243835 
+
+Getting sentiment for 2021-06-16 
+Compute Time: 67.83741497993469 
+
+Getting sentiment for 2021-06-17 
+Compute Time: 7.398478746414185 
+
