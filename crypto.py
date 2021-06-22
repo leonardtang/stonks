@@ -116,7 +116,7 @@ def Crypto():
 def crop_graph_crypto(ticker):
     fig = make_subplots(specs=[[{"secondary_y": True}]])
 
-    fig.add_trace(go.Scatter(name='WSB Mentions',
+    fig.add_trace(go.Scatter(name=f'{ticker} Mentions',
                              x=open_df.index,
                              y=mentions_df[ticker],
                              mode='lines',

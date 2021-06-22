@@ -77,10 +77,24 @@ wordcloud_header = dbc.Row(
                     "margin-left": "auto",
                     "margin-right": "auto",
                 }
-                ),
-        style={'textAlign': 'center'}),
+                )
+        ),
+        dcc.Link(html.H5('(Keyword Extraction Courtesy of the ExpertAI NLP API)',
+                         style=
+                         {
+                             'font-size': '0.8em',
+                             'font-style': 'italic',
+                             'font-weight': 'bolder',
+                             'color': "rgba(117, 117, 117, 0.95)",
+                             'margin-top': '10px',
+                             'margin-bottom': '20px',
+                             "display": "block",
+                             "margin-left": "auto",
+                             "margin-right": "auto",
+                         },
+                         ), href='https://docs.expert.ai/nlapi/latest/guide/keyphrase-extraction/')
     ],
-
+        style={'textAlign': 'center'},
     )
 )
 
@@ -99,10 +113,11 @@ bert_header = dbc.Row(
                     "margin-right": "auto",
                 }
                 ),
-        dcc.Link(html.H5('(Classifier: XLNet Transformer Fine-Tuned on IMDB Movie Reviews)',
+        dcc.Link(html.H5('(Classifier Courtesy of the ExpertAI NLP API)',
                          style=
                          {
-                             'font-size': '1em',
+                             'font-size': '0.8em',
+                             'font-style': 'italic',
                              'font-weight': 'bolder',
                              'color': "rgba(117, 117, 117, 0.95)",
                              'margin-top': '10px',
@@ -111,7 +126,7 @@ bert_header = dbc.Row(
                              "margin-left": "auto",
                              "margin-right": "auto",
                          },
-                         ), href='https://arxiv.org/pdf/1906.08237.pdf')
+                         ), href='https://docs.expert.ai/nlapi/latest/guide/sentiment-analysis/')
     ],
         style={'textAlign': 'center'}),
     ],

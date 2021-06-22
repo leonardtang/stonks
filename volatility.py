@@ -4,13 +4,19 @@ import dash_html_components as html
 import pandas as pd
 import dash
 import plotly.graph_objs as go
+from pandas.tseries.offsets import BDay
 from plotly.subplots import make_subplots
 from navbar import Navbar
 
-total_mentions = pd.read_csv('data/volatility/total_wsb_mentions.csv', index_col=0)
-total_mentions.index = pd.to_datetime(total_mentions.index)
-spy_vol = pd.read_csv('data/volatility/total_market_volume.csv', index_col=0)
+# total_mentions = pd.read_csv('data/volatility/total_wsb_mentions.csv', index_col=0)
+# total_mentions.index = pd.to_datetime(total_mentions.index)
+
+historical_sentiment = pd.read_csv('data/historical_sentiment.csv', index_col=0)
+
 vix = pd.read_csv('data/volatility/historical_vix.csv', index_col=0)
+isBusinessDay = BDay().onOffset
+match_series = pd.to_datetime(vix.index).map(isBusinessDay)
+vix = vix[match_series]
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUX])
 
@@ -42,7 +48,7 @@ fig = make_subplots(specs=[[{"secondary_y": True}]])
 
 # Plotting price without candlestick:
 fig.add_trace(go.Scatter(name='VIX Close',
-                         x=total_mentions.index,
+                         x=historical_sentiment.index,
                          y=vix['CLOSE'],
                          mode='lines',
                          line=dict(color="maroon", width=1)
@@ -50,20 +56,13 @@ fig.add_trace(go.Scatter(name='VIX Close',
               secondary_y=False
               )
 
-fig.add_trace(go.Scatter(name='Total WSB Submissions',
-                         x=total_mentions.index,
-                         y=total_mentions['Total Mentions'],
+fig.add_trace(go.Scatter(name='WSB Average Sentiment',
+                         x=historical_sentiment.index,
+                         y=historical_sentiment['average_sentiment'],
                          mode='lines',
                          line=dict(color='navy', width=1.3)),
               secondary_y=True,
               )
-
-# fig.add_trace(go.Candlestick(name='VIX Price',
-#                              x=vix[ticker].index,
-#                              open=open_df[ticker], high=high_df[ticker],
-#                              low=low_df[ticker], close=close_df[ticker]),
-#               secondary_y=False
-#               )
 
 fig['layout']['yaxis1']['showgrid'] = False
 fig.update_yaxes(title_text="<b>CBOE Volatility Index</b>", secondary_y=False)
@@ -81,7 +80,7 @@ fig.update_layout(showlegend=True,
                       x=0.01
                   )
                   )
-fig.update_layout(title_text=f'Total WSB Activity vs. VIX', title_x=0.5)
+fig.update_layout(title_text=f'Average WSB Sentiment vs. VIX', title_x=0.5)
 fig.update_layout(autosize=True)
 
 intro = html.Div(
